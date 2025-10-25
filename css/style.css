@@ -558,9 +558,6 @@
   flex-direction: column;
 }
 
-.logo-col:last-child {
-}
-
 .footer-logo {
   display: block;
   margin-bottom: 3.2rem;
